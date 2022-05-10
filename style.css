@@ -1,13 +1,16 @@
-.item {
-    background: #0bd;
-    color: #fff;
+
+
+img {
+    width: 200px;
+    border: 1px solid rgba(168, 160, 160, 0.404);
     margin: 10px;
-    padding: 10px;
 }
 
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: space-between;
-    height: 300px;
+.newitem {
+    
+}
+
+.name {
+    color:goldenrod;
+    font-size: 15px;
 }
