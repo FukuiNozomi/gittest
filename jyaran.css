@@ -2,7 +2,7 @@
 .contents {
     background-color: #fde7d5f5;
     margin-left: 50px;
-    width: 820px;
+    width: 800px;
     color: #585858;
 }
 
@@ -34,11 +34,18 @@ h3 {
 }
 .hotel_image img {
     width: 90px;
-    margin: 5px;
+    padding: 10px 0 0 0 ;
+
 }
 .hotel_image {
     display: flex;
+    justify-content: space-between;
 }
 .contents {
     display: flex;
+}
+.main {
+    margin: 10px;
+    width: 300px;
+
 }
