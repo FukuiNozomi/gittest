@@ -1,0 +1,44 @@
+
+.contents {
+    background-color: #fde7d5f5;
+    margin-left: 50px;
+    width: 820px;
+    color: #585858;
+}
+
+
+
+h2 {
+    margin-left: 50px;
+    background-color: #ff7300;
+    color: white;
+    width: 800px;
+    font-size: 100%;
+    padding: 5px 0 5px 20px;
+}
+
+h3 {
+    color: #3131ff;
+}
+
+.price {
+    float: right;
+    color: black;
+
+}
+.price span {
+    font-size: 150%;
+}
+.main_image img {
+    width: 300px;
+}
+.hotel_image img {
+    width: 90px;
+    margin: 5px;
+}
+.hotel_image {
+    display: flex;
+}
+.contents {
+    display: flex;
+}
