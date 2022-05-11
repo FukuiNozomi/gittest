@@ -4,10 +4,11 @@ img {
     width: 200px;
     border: 1px solid rgba(168, 160, 160, 0.404);
     margin: 10px;
+
 }
 
 .newitem {
-    
+    display: flex;
 }
 
 .name {
